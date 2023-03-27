@@ -2,3 +2,4 @@ New Session
 Create New Tree
 Added Bird No 1
 Added Bird No 2
+Added Apples
